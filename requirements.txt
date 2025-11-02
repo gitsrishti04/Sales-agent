@@ -1,0 +1,17 @@
+# --- Core Python Dependencies ---
+requests
+beautifulsoup4
+python-dateutil
+python-dotenv
+lxml
+lxml_html_clean
+
+# --- AI & LLM Integrations ---
+ollama
+openai
+langchain
+langgraph
+
+# --- Optional Utilities ---
+tqdm
+rich
