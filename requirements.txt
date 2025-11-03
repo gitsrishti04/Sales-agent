@@ -5,13 +5,22 @@ python-dateutil
 python-dotenv
 lxml
 lxml_html_clean
+tqdm
+rich
+
+# --- HTML Rendering / Scraping Helpers ---
+requests-html
+html5lib
 
 # --- AI & LLM Integrations ---
-ollama
 openai
+ollama
 langchain
 langgraph
 
-# --- Optional Utilities ---
-tqdm
-rich
+# --- File Handling & Data Utilities ---
+pandas
+jsonschema
+
+# --- Environment / Execution ---
+typing-extensions
